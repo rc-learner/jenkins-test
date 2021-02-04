@@ -3,5 +3,8 @@
 def main(a):
     return a * 2
 
+def new_fn():
+    return 5
+
 if __name__ == "__main__":
     print(main(4))
